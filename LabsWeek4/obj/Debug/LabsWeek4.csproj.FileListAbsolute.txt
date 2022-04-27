@@ -1,0 +1,7 @@
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\bin\Debug\LabsWeek4.exe.config
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\bin\Debug\LabsWeek4.exe
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\bin\Debug\LabsWeek4.pdb
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\obj\Debug\LabsWeek4.csproj.AssemblyReference.cache
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\obj\Debug\LabsWeek4.csproj.CoreCompileInputs.cache
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\obj\Debug\LabsWeek4.exe
+C:\Users\37379\Desktop\C#\LabsWeek4\LabsWeek4\obj\Debug\LabsWeek4.pdb
